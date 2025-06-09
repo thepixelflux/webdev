@@ -1,0 +1,9 @@
+h1{
+    font-family: Verdana, sans-serif;
+}
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}

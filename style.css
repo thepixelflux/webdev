@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(60, 42, 42);
+    margin:auto;
+    border:3px solid rgb(164, 225, 152);
+}
+
+h1{    
+    text-align: center;
+    color:rgb(247, 246, 246);
+    font-family:verdana,arial;
+    font-style:italic;
+    border: 2px groove rgb(240, 238, 120);
+}
+h2{
+    color:antiquewhite;
+    text-align: center;
+    text-shadow:3px 3px 5px rgb(215, 106, 106),-3px -3px 5px rgb(179, 129, 229);
+}
+#p1{
+    text-align: center;
+    color:rgb(243, 120, 151);
+    font-family:"lucida console";
+}
+#p2{
+    text-align: center;
+    color:rgb(59, 239, 203);
+}
+#p3{
+    text-align: center;
+    color:rgb(229, 122, 237);
+    font-family:"courier new";
+
+}
+#p4{
+    text-align: center;
+    color:rgb(172, 243, 30);
+}
